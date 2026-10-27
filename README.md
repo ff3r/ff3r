@@ -1,12 +1,14 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Fernando Chinchay</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/GwartneyDev/GwartneyDev/main/Dream%20_%20Kirokaze.gif" alt="Kirokaze Dream" width="100%"> I'm Fernando Chinchay</h1>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<p align="center">
+  <img src="https://i.imgur.com/Vz5jXof.gif" alt="Data & Dev Banner" width="100%" />
+</p>
 
 ## 📌 Sobre mí
-- 💻 **Software Developer / Full Stack** enfocado en construir aplicaciones web robustas, escalables y con código limpio.
-- 🛠️ Experiencia trabajando en ecosistemas modernos (TypeScript, React, Node.js, Python, bases de datos SQL y NoSQL).
-- 🚀 Siempre explorando nuevas herramientas, arquitectura de software e integración de soluciones eficientes.
-- 💬 Hablemos sobre desarrollo web, proyectos de software o nuevas oportunidades.
+- 🧠 **Data & Machine Learning Engineer / Software Developer** enfocado en el diseño de pipelines de datos, modelado predictivo y aplicaciones web impulsadas por Inteligencia Artificial.
+- 🔬 Especializado en **algoritmos de ensamble (*Stacking*), clasificación multiclase y balanceo avanzado de datos** (SMOTE-Tomek, SMOTE-ENN) aplicados al sector salud y análisis clínico.
+- 🏗️ Experiencia construyendo aplicaciones completas: desde el entrenamiento y optimización de modelos (*LightGBM, CatBoost, XGBoost, TabNet*) hasta el despliegue interactivo con **Streamlit** y arquitecturas cliente-servidor (PHP PDO, MySQL 3FN, JavaScript).
+- 📍 Lima, Perú | 💬 Abierto a colaborar en proyectos de Data Science, Pipelines de ML y desarrollo de software.
 
 ---
 
@@ -14,61 +16,41 @@
 
 <div align="center">
 
-| 📁 Proyecto | 📝 Descripción | 🛠️ Tecnologías | 🔗 Enlace |
+| 📁 Proyecto | 📝 Descripción | 🛠️ Tecnologías | 🔗 Enlace / Demo |
 | :--- | :--- | :--- | :--- |
-| **Proyecto 1** | Plataforma web interactiva con backend escalable y alta disponibilidad. | `Next.js` `TypeScript` `Tailwind` | [Ver Repositorio ↗](https://github.com/ff3r) |
-| **Proyecto 2** | API RESTful con autenticación segura, control de roles y base de datos relacional. | `Node.js` `Express` `PostgreSQL` | [Ver Repositorio ↗](https://github.com/ff3r) |
-| **Proyecto 3** | Automatización, microservicios y despliegue contenedorizado. | `Python` `Docker` `Redis` | [Ver Repositorio ↗](https://github.com/ff3r) |
+| **Detección de Anemia (Web App)** | Aplicación web clínica en producción para predecir niveles de anemia mediante *Stacking Ensemble* optimizado con múltiples clasificadores. | `Python` `Streamlit` `Scikit-Learn` `LightGBM` | [Demo en vivo ↗](https://machinelearning-deteccion-anemia.streamlit.app/)<br>[Código ↗](https://github.com/ff3r/Stacking_Anemia_MachineLearning) |
+| **Anemia Ensemble & Resampling Pipeline** | Pipeline integral para clasificación multiclase en datos desbalanceados con técnicas duales de remuestreo (SMOTE-Tomek y SMOTE-ENN) evaluado con MCC y AUC-ROC. | `Jupyter` `Pandas` `CatBoost` `TabNet` | [Ver Repositorio ↗](https://github.com/ff3r/AnemiaEnsemblePipeline) |
+| **TalentMatch AI** | Plataforma inteligente de reclutamiento y selección de talento impulsada por IA, arquitectura de 3 capas desacoplada con modo híbrido resiliente. | `PHP (PDO)` `MySQL 3FN` `JavaScript ES6` `EmailJS` | [Ver Repositorio ↗](https://github.com/ff3r/talentmatch-ai) |
 
 </div>
-
-<!-- Tarjetas interactivas con temática Jade Suave + Fondo #0D1117 -->
-<!--     repos públicos listos, descomentarr y pon el nombre dell   repo -->
-<!--
-<p align="center">
-  <a href="https://github.com/ff3r/NOMBRE_REPOSITORIO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ff3r&repo=NOMBRE_REPOSITORIO&bg_color=0D1117&border_color=134e4a&title_color=34d399&text_color=94a3b8&icon_color=2dd4bf" />
-  </a>
-</p>
--->
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### Lenguajes
+### Machine Learning & Data Science
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="46" height="46" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="46" height="46" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="46" height="46" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="46" height="46" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="46" height="46" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="46" height="46" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="46" height="46" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="46" height="46" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="46" height="46" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="46" height="46" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="46" height="46" style="margin: 4px;" />
 </p>
 
-### Frontend
+### Desarrollo Web & Bases de Datos
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="46" height="46" style="margin: 4px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="46" height="46" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="46" height="46" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="46" height="46" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="46" height="46" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="46" height="46" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="46" height="46" style="margin: 4px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="46" height="46" style="margin: 4px;" />
 </p>
 
-### Backend & Bases de Datos
+### Herramientas & Entornos
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="46" height="46" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="46" height="46" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="46" height="46" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="46" height="46" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="46" height="46" style="margin: 4px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="46" height="46" style="margin: 4px;" />
-</p>
-
-### DevOps & Herramientas
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="46" height="46" style="margin: 4px;" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="46" height="46" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="46" height="46" style="margin: 4px;" />
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="46" height="46" style="margin: 4px;" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="46" height="46" style="margin: 4px;" />
 </p>
