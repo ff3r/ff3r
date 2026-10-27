@@ -1,7 +1,7 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/GwartneyDev/GwartneyDev/main/Dream%20_%20Kirokaze.gif" alt="Kirokaze Dream" width="100%"> I'm Fernando Chinchay</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Fernando Chinchay</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/Vz5jXof.gif" alt="Data & Dev Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/GwartneyDev/GwartneyDev/main/Dream%20_%20Kirokaze.gif" alt="Kirokaze Dream" width="100%" />
 </p>
 
 ## 📌 Sobre mí
